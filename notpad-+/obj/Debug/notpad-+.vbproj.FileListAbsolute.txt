@@ -1,0 +1,26 @@
+C:\Users\mamme\Documents\Visual Studio 2012\Projects\notpad-+\notpad-+\bin\Debug\notpad-+.exe.config
+C:\Users\mamme\Documents\Visual Studio 2012\Projects\notpad-+\notpad-+\bin\Debug\notpad-+.exe
+C:\Users\mamme\Documents\Visual Studio 2012\Projects\notpad-+\notpad-+\bin\Debug\notpad-+.pdb
+C:\Users\mamme\Documents\Visual Studio 2012\Projects\notpad-+\notpad-+\bin\Debug\notpad-+.xml
+C:\Users\mamme\Documents\Visual Studio 2012\Projects\notpad-+\notpad-+\obj\Debug\notpad__.Resources.resources
+C:\Users\mamme\Documents\Visual Studio 2012\Projects\notpad-+\notpad-+\obj\Debug\notpad-+.vbproj.GenerateResource.Cache
+C:\Users\mamme\Documents\Visual Studio 2012\Projects\notpad-+\notpad-+\obj\Debug\notpad-+.exe
+C:\Users\mamme\Documents\Visual Studio 2012\Projects\notpad-+\notpad-+\obj\Debug\notpad-+.xml
+C:\Users\mamme\Documents\Visual Studio 2012\Projects\notpad-+\notpad-+\obj\Debug\notpad-+.pdb
+C:\Users\mamme\Documents\Visual Studio 2012\Projects\notpad-+\notpad-+\obj\Debug\notpad__.frm1.resources
+C:\Users\mamme\Documents\Visual Studio 2012\Projects\notpad-+\notpad-+\obj\Debug\notpad__.Form2.resources
+D:\book\Projects\notpad-+\notpad-+\bin\Debug\notpad-+.exe.config
+D:\book\Projects\notpad-+\notpad-+\obj\Debug\notpad-+.exe
+D:\book\Projects\notpad-+\notpad-+\obj\Debug\notpad-+.xml
+D:\book\Projects\notpad-+\notpad-+\obj\Debug\notpad-+.pdb
+D:\book\Projects\notpad-+\notpad-+\bin\Debug\notpad-+.exe
+D:\book\Projects\notpad-+\notpad-+\bin\Debug\notpad-+.pdb
+D:\book\Projects\notpad-+\notpad-+\bin\Debug\notpad-+.xml
+D:\book\Projects\notpad-+\notpad-+\obj\Debug\notpad__.frm1.resources
+D:\book\Projects\notpad-+\notpad-+\obj\Debug\notpad__.Form2.resources
+D:\book\Projects\notpad-+\notpad-+\obj\Debug\notpad__.Resources.resources
+D:\book\Projects\notpad-+\notpad-+\obj\Debug\notpad-+.vbproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\application\notpad-+\notpad-+\bin\Debug\notpad-+.exe.config
+C:\Users\ACER\Desktop\application\notpad-+\notpad-+\obj\Debug\notpad-+.exe
+C:\Users\ACER\Desktop\application\notpad-+\notpad-+\obj\Debug\notpad-+.xml
+C:\Users\ACER\Desktop\application\notpad-+\notpad-+\obj\Debug\notpad-+.pdb
