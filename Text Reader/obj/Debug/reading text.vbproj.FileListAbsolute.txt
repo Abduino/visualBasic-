@@ -1,0 +1,33 @@
+c:\users\mamme\documents\visual studio 2012\Projects\reading text\bin\Debug\reading text.exe.config
+c:\users\mamme\documents\visual studio 2012\Projects\reading text\bin\Debug\reading text.exe
+c:\users\mamme\documents\visual studio 2012\Projects\reading text\bin\Debug\reading text.pdb
+c:\users\mamme\documents\visual studio 2012\Projects\reading text\bin\Debug\reading text.xml
+c:\users\mamme\documents\visual studio 2012\Projects\reading text\obj\Debug\reading_text.Form1.resources
+c:\users\mamme\documents\visual studio 2012\Projects\reading text\obj\Debug\reading_text.Resources.resources
+c:\users\mamme\documents\visual studio 2012\Projects\reading text\obj\Debug\reading text.vbproj.GenerateResource.Cache
+c:\users\mamme\documents\visual studio 2012\Projects\reading text\obj\Debug\reading text.exe
+c:\users\mamme\documents\visual studio 2012\Projects\reading text\obj\Debug\reading text.xml
+c:\users\mamme\documents\visual studio 2012\Projects\reading text\obj\Debug\reading text.pdb
+D:\book\Projects\reading text\bin\Debug\reading text.exe.config
+D:\book\Projects\reading text\obj\Debug\reading text.exe
+D:\book\Projects\reading text\obj\Debug\reading text.xml
+D:\book\Projects\reading text\obj\Debug\reading text.pdb
+D:\book\Projects\reading text\bin\Debug\reading text.exe
+D:\book\Projects\reading text\bin\Debug\reading text.pdb
+D:\book\Projects\reading text\bin\Debug\reading text.xml
+D:\book\Projects\reading text\obj\Debug\reading_text.Resources.resources
+D:\book\Projects\reading text\obj\Debug\reading text.vbproj.GenerateResource.Cache
+D:\book\Projects\reading text\obj\Debug\reading_text.tReader.resources
+F:\ALL\SOFTWARE\reading text\bin\Debug\reading text.exe.config
+F:\ALL\SOFTWARE\reading text\obj\Debug\reading text.exe
+F:\ALL\SOFTWARE\reading text\obj\Debug\reading text.xml
+F:\ALL\SOFTWARE\reading text\obj\Debug\reading text.pdb
+F:\ALL\SOFTWARE\reading text\bin\Debug\reading text.exe
+F:\ALL\SOFTWARE\reading text\bin\Debug\reading text.pdb
+F:\ALL\SOFTWARE\reading text\bin\Debug\reading text.xml
+F:\ALL\SOFTWARE\reading text\obj\Debug\reading_text.tReader.resources
+F:\ALL\SOFTWARE\reading text\obj\Debug\reading_text.Resources.resources
+F:\ALL\SOFTWARE\reading text\obj\Debug\reading text.vbproj.GenerateResource.Cache
+F:\ALL\SOFTWARE\reading text\bin\Debug\am-ET\reading text.resources.dll
+F:\ALL\SOFTWARE\reading text\obj\Debug\reading_text.tReader.am-ET.resources
+F:\ALL\SOFTWARE\reading text\obj\Debug\am-ET\reading text.resources.dll
