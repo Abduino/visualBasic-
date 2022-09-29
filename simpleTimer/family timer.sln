@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "family timer", "family timer.vbproj", "{9A3CC896-EF8B-4574-9929-13F7010FCBDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A3CC896-EF8B-4574-9929-13F7010FCBDF}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3CC896-EF8B-4574-9929-13F7010FCBDF}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{9A3CC896-EF8B-4574-9929-13F7010FCBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3CC896-EF8B-4574-9929-13F7010FCBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3CC896-EF8B-4574-9929-13F7010FCBDF}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3CC896-EF8B-4574-9929-13F7010FCBDF}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{9A3CC896-EF8B-4574-9929-13F7010FCBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3CC896-EF8B-4574-9929-13F7010FCBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3CC896-EF8B-4574-9929-13F7010FCBDF}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3CC896-EF8B-4574-9929-13F7010FCBDF}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
