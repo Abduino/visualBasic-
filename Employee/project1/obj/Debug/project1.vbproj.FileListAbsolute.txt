@@ -1,0 +1,144 @@
+C:\Users\FAITH\Desktop\project\project1\project1\bin\Debug\project1.exe.config
+C:\Users\FAITH\Desktop\project\project1\project1\bin\Debug\project1.exe
+C:\Users\FAITH\Desktop\project\project1\project1\bin\Debug\project1.pdb
+C:\Users\FAITH\Desktop\project\project1\project1\bin\Debug\project1.xml
+C:\Users\FAITH\Desktop\project\project1\project1\obj\Debug\project1.Resources.resources
+C:\Users\FAITH\Desktop\project\project1\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+C:\Users\FAITH\Desktop\project\project1\project1\obj\Debug\project1.exe
+C:\Users\FAITH\Desktop\project\project1\project1\obj\Debug\project1.xml
+C:\Users\FAITH\Desktop\project\project1\project1\obj\Debug\project1.pdb
+C:\Users\FAITH\Desktop\project\project1\project1\obj\Debug\project1.frmLogin.resources
+C:\Users\FAITH\Desktop\project\project1\project1\obj\Debug\project1.Form2.resources
+C:\Users\FAITH\Desktop\project\project1\project1\obj\Debug\project1.Form3.resources
+C:\Users\FAITH\Desktop\project1\project1\bin\Debug\project1.exe.config
+C:\Users\FAITH\Desktop\project1\project1\obj\Debug\project1.exe
+C:\Users\FAITH\Desktop\project1\project1\obj\Debug\project1.xml
+C:\Users\FAITH\Desktop\project1\project1\obj\Debug\project1.pdb
+C:\Users\FAITH\Desktop\cc\project1\project1\bin\Debug\project1.exe.config
+C:\Users\FAITH\Desktop\cc\project1\project1\obj\Debug\project1.exe
+C:\Users\FAITH\Desktop\cc\project1\project1\obj\Debug\project1.xml
+C:\Users\FAITH\Desktop\cc\project1\project1\obj\Debug\project1.pdb
+C:\Users\FAITH\Desktop\cc\project1\project1\bin\Debug\project1.exe
+C:\Users\FAITH\Desktop\cc\project1\project1\bin\Debug\project1.pdb
+C:\Users\FAITH\Desktop\cc\project1\project1\bin\Debug\project1.xml
+C:\Users\FAITH\Desktop\cc\project1\project1\obj\Debug\project1.frmLogin.resources
+C:\Users\FAITH\Desktop\cc\project1\project1\obj\Debug\project1.Form2.resources
+C:\Users\FAITH\Desktop\cc\project1\project1\obj\Debug\project1.Form3.resources
+C:\Users\FAITH\Desktop\cc\project1\project1\obj\Debug\project1.Resources.resources
+C:\Users\FAITH\Desktop\cc\project1\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+C:\Users\FAITH\Desktop\Login\project1\bin\Debug\project1.exe.config
+C:\Users\FAITH\Desktop\Login\project1\obj\Debug\project1.exe
+C:\Users\FAITH\Desktop\Login\project1\obj\Debug\project1.xml
+C:\Users\FAITH\Desktop\Login\project1\obj\Debug\project1.pdb
+C:\Users\FAITH\Desktop\Login\project1\obj\Debug\project1.frmLogin.resources
+C:\Users\FAITH\Desktop\Login\project1\obj\Debug\project1.Resources.resources
+C:\Users\FAITH\Desktop\Login\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+C:\Users\FAITH\Desktop\Login\project1\bin\Debug\project1.exe
+C:\Users\FAITH\Desktop\Login\project1\bin\Debug\project1.pdb
+C:\Users\FAITH\Desktop\Login\project1\bin\Debug\project1.xml
+C:\Users\FAITH\Desktop\Login\project1\obj\Debug\project1.Form2.resources
+C:\Users\FAITH\Desktop\IS\Login\project1\bin\Debug\project1.exe.config
+C:\Users\FAITH\Desktop\IS\Login\project1\obj\Debug\project1.exe
+C:\Users\FAITH\Desktop\IS\Login\project1\obj\Debug\project1.xml
+C:\Users\FAITH\Desktop\IS\Login\project1\obj\Debug\project1.pdb
+C:\Users\FAITH\Desktop\VB Lab\IS\Login\project1\bin\Debug\project1.exe.config
+C:\Users\FAITH\Desktop\VB Lab\IS\Login\project1\obj\Debug\project1.exe
+C:\Users\FAITH\Desktop\VB Lab\IS\Login\project1\obj\Debug\project1.xml
+C:\Users\FAITH\Desktop\VB Lab\IS\Login\project1\obj\Debug\project1.pdb
+C:\Users\FAITH\Desktop\VB Lab\IS\Login\project1\bin\Debug\project1.exe
+C:\Users\FAITH\Desktop\VB Lab\IS\Login\project1\bin\Debug\project1.pdb
+C:\Users\FAITH\Desktop\VB Lab\IS\Login\project1\bin\Debug\project1.xml
+C:\Users\FAITH\Desktop\VB Lab\IS\Login\project1\obj\Debug\project1.frmLogin.resources
+C:\Users\FAITH\Desktop\VB Lab\IS\Login\project1\obj\Debug\project1.Form2.resources
+C:\Users\FAITH\Desktop\VB Lab\IS\Login\project1\obj\Debug\project1.Resources.resources
+C:\Users\FAITH\Desktop\VB Lab\IS\Login\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+C:\Users\FAITH\Desktop\Employee\project1\bin\Debug\project1.exe.config
+C:\Users\FAITH\Desktop\Employee\project1\obj\Debug\project1.exe
+C:\Users\FAITH\Desktop\Employee\project1\obj\Debug\project1.xml
+C:\Users\FAITH\Desktop\Employee\project1\obj\Debug\project1.pdb
+C:\Users\FAITH\Desktop\Employee\project1\bin\Debug\project1.exe
+C:\Users\FAITH\Desktop\Employee\project1\bin\Debug\project1.pdb
+C:\Users\FAITH\Desktop\Employee\project1\bin\Debug\project1.xml
+C:\Users\FAITH\Desktop\Employee\project1\obj\Debug\project1.frmLogin.resources
+C:\Users\FAITH\Desktop\Employee\project1\obj\Debug\project1.Form2.resources
+C:\Users\FAITH\Desktop\Employee\project1\obj\Debug\project1.Resources.resources
+C:\Users\FAITH\Desktop\Employee\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+G:\Employee\project1\bin\Debug\project1.exe.config
+G:\Employee\project1\obj\Debug\project1.exe
+G:\Employee\project1\obj\Debug\project1.xml
+G:\Employee\project1\obj\Debug\project1.pdb
+G:\Employee\project1\bin\Debug\project1.exe
+G:\Employee\project1\bin\Debug\project1.pdb
+G:\Employee\project1\bin\Debug\project1.xml
+G:\Employee\project1\obj\Debug\project1.frmLogin.resources
+G:\Employee\project1\obj\Debug\project1.Form2.resources
+G:\Employee\project1\obj\Debug\project1.Resources.resources
+G:\Employee\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+C:\Users\mamme\Desktop\Employee\project1\bin\Debug\project1.exe.config
+C:\Users\mamme\Desktop\Employee\project1\obj\Debug\project1.exe
+C:\Users\mamme\Desktop\Employee\project1\obj\Debug\project1.xml
+C:\Users\mamme\Desktop\Employee\project1\obj\Debug\project1.pdb
+C:\Users\mamme\Desktop\Employee\project1\bin\Debug\project1.exe
+C:\Users\mamme\Desktop\Employee\project1\bin\Debug\project1.pdb
+C:\Users\mamme\Desktop\Employee\project1\bin\Debug\project1.xml
+C:\Users\mamme\Desktop\Employee\project1\obj\Debug\project1.frmLogin.resources
+C:\Users\mamme\Desktop\Employee\project1\obj\Debug\project1.Form2.resources
+C:\Users\mamme\Desktop\Employee\project1\obj\Debug\project1.Resources.resources
+C:\Users\mamme\Desktop\Employee\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+C:\Users\mamme\Desktop\abdrehmanredi\Employee\project1\bin\Debug\project1.exe.config
+C:\Users\mamme\Desktop\abdrehmanredi\Employee\project1\obj\Debug\project1.exe
+C:\Users\mamme\Desktop\abdrehmanredi\Employee\project1\obj\Debug\project1.xml
+C:\Users\mamme\Desktop\abdrehmanredi\Employee\project1\obj\Debug\project1.pdb
+C:\Users\mamme\Desktop\abdrehmanredi\Employee\project1\bin\Debug\project1.exe
+C:\Users\mamme\Desktop\abdrehmanredi\Employee\project1\bin\Debug\project1.pdb
+C:\Users\mamme\Desktop\abdrehmanredi\Employee\project1\bin\Debug\project1.xml
+C:\Users\mamme\Desktop\abdrehmanredi\Employee\project1\obj\Debug\project1.frmLogin.resources
+C:\Users\mamme\Desktop\abdrehmanredi\Employee\project1\obj\Debug\project1.Form2.resources
+C:\Users\mamme\Desktop\abdrehmanredi\Employee\project1\obj\Debug\project1.Resources.resources
+C:\Users\mamme\Desktop\abdrehmanredi\Employee\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+D:\from old\Employee\project1\bin\Debug\project1.exe.config
+D:\from old\Employee\project1\obj\Debug\project1.exe
+D:\from old\Employee\project1\obj\Debug\project1.xml
+D:\from old\Employee\project1\obj\Debug\project1.pdb
+D:\from old\Employee\project1\bin\Debug\project1.exe
+D:\from old\Employee\project1\bin\Debug\project1.pdb
+D:\from old\Employee\project1\bin\Debug\project1.xml
+D:\from old\Employee\project1\obj\Debug\project1.frmLogin.resources
+D:\from old\Employee\project1\obj\Debug\project1.Resources.resources
+D:\from old\Employee\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+D:\from old\Employee\project1\obj\Debug\project1.employee.resources
+C:\Users\ACER\Desktop\application\Employee\project1\bin\Debug\project1.exe.config
+C:\Users\ACER\Desktop\application\Employee\project1\obj\Debug\project1.exe
+C:\Users\ACER\Desktop\application\Employee\project1\obj\Debug\project1.xml
+C:\Users\ACER\Desktop\application\Employee\project1\obj\Debug\project1.pdb
+C:\Users\ACER\Desktop\application\Employee\project1\bin\Debug\project1.exe
+C:\Users\ACER\Desktop\application\Employee\project1\bin\Debug\project1.pdb
+C:\Users\ACER\Desktop\application\Employee\project1\bin\Debug\project1.xml
+C:\Users\ACER\Desktop\application\Employee\project1\obj\Debug\project1.frmLogin.resources
+C:\Users\ACER\Desktop\application\Employee\project1\obj\Debug\project1.employee.resources
+C:\Users\ACER\Desktop\application\Employee\project1\obj\Debug\project1.Resources.resources
+C:\Users\ACER\Desktop\application\Employee\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+F:\ALL\SOFTWARE\Employee\project1\bin\Debug\project1.exe.config
+F:\ALL\SOFTWARE\Employee\project1\obj\Debug\project1.exe
+F:\ALL\SOFTWARE\Employee\project1\obj\Debug\project1.xml
+F:\ALL\SOFTWARE\Employee\project1\obj\Debug\project1.pdb
+F:\ALL\SOFTWARE\Employee\project1\bin\Debug\project1.exe
+F:\ALL\SOFTWARE\Employee\project1\bin\Debug\project1.pdb
+F:\ALL\SOFTWARE\Employee\project1\bin\Debug\project1.xml
+F:\ALL\SOFTWARE\Employee\project1\obj\Debug\project1.frmLogin.resources
+F:\ALL\SOFTWARE\Employee\project1\obj\Debug\project1.employee.resources
+F:\ALL\SOFTWARE\Employee\project1\obj\Debug\project1.Resources.resources
+F:\ALL\SOFTWARE\Employee\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+F:\ALL\SOFTWARE\Employee\project1\obj\Debug\project1.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\git projects\vb\Employee\project1\bin\Debug\project1.exe.config
+C:\Users\user\Desktop\git projects\vb\Employee\project1\obj\Debug\project1.exe
+C:\Users\user\Desktop\git projects\vb\Employee\project1\obj\Debug\project1.xml
+C:\Users\user\Desktop\git projects\vb\Employee\project1\obj\Debug\project1.pdb
+C:\Users\user\Desktop\git projects\vb\Employee\project1\bin\Debug\project1.exe
+C:\Users\user\Desktop\git projects\vb\Employee\project1\bin\Debug\project1.pdb
+C:\Users\user\Desktop\git projects\vb\Employee\project1\bin\Debug\project1.xml
+C:\Users\user\Desktop\git projects\vb\Employee\project1\obj\Debug\project1.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\git projects\vb\Employee\project1\obj\Debug\project1.frmLogin.resources
+C:\Users\user\Desktop\git projects\vb\Employee\project1\obj\Debug\project1.employee.resources
+C:\Users\user\Desktop\git projects\vb\Employee\project1\obj\Debug\project1.Resources.resources
+C:\Users\user\Desktop\git projects\vb\Employee\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
