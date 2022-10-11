@@ -1,0 +1,86 @@
+using system.data.sqlclient;
+under form1 write this
+sqlconnection
+
+
+
+insert:
+
+  {
+if (txtid.Text="" & txtname.Text= "")
+{
+cn.open();
+cmd=commandText = "insert into info (id,name) values ('"+txtid.Text+"','"txtname+"')";
+cmd.ExecuteNonQuery();
+cmd.clone();
+messageBox.show("record inserted!")
+txtid.Text= "";
+txtname.Text = "";
+       
+
+
+
+delete:
+
+
+if (txtid.Text !="" & txtname.Text != "")
+cmd commandText ="delete from info where id='"+txtid.Text+"' and name='"+txtname.Text.Text+"'";
+cmd.ExecuteNonQuery();
+cn.close();
+messageBox.show("Record Deleted");
+loadlist();
+txtid.Text= "";
+txtname.Text = "";
+
+
+  on login button:
+  this.hide();
+main ss= new main();
+ss.show();
+          
+database connection
+  first declare this:
+    
+sqldataadapter sda;
+sqlcommandBuilder scb;
+dataTable dt;
+sqlconnection con = new sqlconnection ("  ");
+sda =new sqlDataadapter (@"select name ,gender,age,nationality, state ...from (table name) con");
+dt=new DataTable();
+sda.fill(dt)
+dataGrideview1.datasource = dt;
+     
+
+scb = new sqlcommandBuilder(sda);
+ sda.update(dt);
+
+
+  validation
+  validate letter only
+   {
+if(char.IsLetter(e.keychar) || e.keychar==8);
+{
+e.handled ==false;
+}
+else
+e.handled == true;
+ 
+ validate number only
+  
+ e.Handled = char.IsNumber(e.keychar) || e.keychar ==8 ? false:true;
+   
+ verifying email address:
+ 
+{
+ string email = textbox1.Text;
+ if (email.indexof("@") == -1 || email.Indexof('-')== -1)
+ respoce.Text = "Invalid Email";
+ else
+ responce.Text = "valid Email address";
+}
+
+
+
+
+
+      
