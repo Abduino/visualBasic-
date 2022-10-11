@@ -1,0 +1,25 @@
+using System.Data;
+using System.Data.SqlClient;
+
+private void btnAdd_Click(object sender, EventArgs e)
+        {
+            SqlConnection cn = new SqlConnection(global::databaseConnection.cs.Properties.Settings.Default.Database1ConnectionString );
+            
+            try
+            {
+                string sql = "INSERT INTO studenttbl(IDNO,Name) values(" + txtID.Text + ",'" + txtName.Text + "')";
+                SqlCommand sqlexe = new SqlCommand(sql,cn);
+                cn.Open();
+                sqlexe.ExecuteNonQuery();
+                MessageBox.Show("Succesfully submitted ||", "Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                this.studenttblTableAdapter.Fill(this.database1DataSet.studenttbl);
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message, "please try again", MessageBoxButtons.OK, MessageBoxIcon.Error );
+            }
+            finally
+            {
+                cn.Close();
+            }
+        }
